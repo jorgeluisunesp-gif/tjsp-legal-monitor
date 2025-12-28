@@ -1,0 +1,16 @@
+﻿Segredos e Credenciais (CRÍTICO)
+.env
+.env.local
+Arquivos Python e Compilados
+pycache/
+*.py[cod]
+*$py.class
+Logs e Dados Locais
+*.log
+resultados_monitoramento.csv
+processos.txt
+processos_teste.txt
+Pastas de IDE e Sistema
+.vscode/
+.idea/
+.DS_Store
