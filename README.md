@@ -2,6 +2,8 @@
 
 Sistema de monitoramento automatizado de processos judiciais do Tribunal de Justiça de São Paulo (e-SAJ), com notificações em tempo real via Telegram.
 
+![Demonstração do Robô em Ação](demo.gif)
+
 *(Acima: O sistema acessando o e-SAJ, detectando uma nova movimentação e enviando o alerta instantâneo)*
 
 ## **🎯 Objetivo**
